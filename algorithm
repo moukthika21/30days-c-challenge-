@@ -1,0 +1,7 @@
+1. Start.
+2. Read the marks of the five subjects (m1, m2, m3, m4 and m5).
+3. Calculate the total marks: total = m1 + m2 + m3 + m4 + m5.
+4. Calculate the average marks: average = total / 5.
+5. Calculate the percentage: percentage = (total / 500) * 100.
+6. Display the total, average and percentage.
+7. Stop
